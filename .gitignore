@@ -1,0 +1,10 @@
+backend/.env
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.py[cod]
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+memory/test_credentials.md
